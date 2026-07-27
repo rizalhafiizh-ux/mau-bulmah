@@ -80,7 +80,7 @@ const Navbar = () => {
 
             />
             <span className="text-xl font-medium tracking-wider text-gray-700 dark:text-gray-200">
-              MA Unggulan <span className="font-extrabold">Bustanul Hikmah</span>
+              MAU <span className="font-extrabold">Bustanul Hikmah</span>
             </span>
           </Link>
 

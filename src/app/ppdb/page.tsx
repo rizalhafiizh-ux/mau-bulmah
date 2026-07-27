@@ -23,7 +23,7 @@ export default function PPDBPage() {
     ];
 
     return (
-        <div className="pt-18 min-h-screen bg-slate-50 dark:bg-slate-900 text-slate-800 dark:text-slate-100 transition-colors duration-300">
+        <div className="pt-12 md:pt-24 min-h-screen bg-slate-50 dark:bg-slate-900 text-slate-800 dark:text-slate-100 transition-colors duration-300">
 
             {/* 1. HERO SECTION PPDB */}
             <section className="relative overflow-hidden bg-gradient-to-b from-lime-500/10 via-slate-50 to-slate-50 dark:from-lime-500/5 dark:via-slate-900 dark:to-slate-900 py-12 md:py-20 border-b border-gray-200 dark:border-gray-800">
